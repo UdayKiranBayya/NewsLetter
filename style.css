@@ -1,0 +1,25 @@
+form {
+    text-align: center;
+    margin-top: 250px;
+}
+
+
+
+.form-control {
+    height: 34px;
+}
+
+.display-2 {
+    text-align: center;
+    position: relative;
+    top: 240px;
+}
+
+button {
+    background-color: #75cfb8;
+    position: relative;
+    top: 30px;
+    height: 30px;
+    width: 250px;
+    border-radius: 3px;
+}
